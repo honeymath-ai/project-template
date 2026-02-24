@@ -24,8 +24,10 @@ traceability chain:
 ```
 ADR-0008  (architecture decision)
   └── DR-0008-0001  (design rationale)
-        └── EIR-0008-0001-0001  (investigation record)
-        └── EIR-0008-0001-0002  (another investigation)
+        ├── EIR-0008-0001-0001  (investigation record)
+        ├── EIR-0008-0001-0002  (another investigation)
+        ├── TR-0008-0001-0001   (test rationale)
+        └── RET-0008-0001-0001  (after action record)
 ```
 
 An EIR always traces back through a DR to an ADR.

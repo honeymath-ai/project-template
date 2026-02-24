@@ -112,6 +112,7 @@ Describe the effects of this design choice.
 - Parent ADR link
 - Related DRs
 - Child EIRs (if any)
+- Child RETs (after action records, if any)
 ```
 
 

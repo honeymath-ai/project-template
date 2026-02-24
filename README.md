@@ -27,6 +27,8 @@ docs/
     summary/
   tr/               Test Rationale — "why does this test exist?"
     summary/
+  ret/              After Action Records — "what happened and what did we learn?"
+    summary/
   aa/               Architecture Analysis — "what did THEY build and why?"
     summary/
   da/               Design Analysis — "how does THEIR component work?"
@@ -47,7 +49,8 @@ docs/
 ADR-XXXX                          (Architecture Decision)
   └── DR-XXXX-YYYY                (Design Rationale)
         ├── EIR-XXXX-YYYY-ZZZZ   (Engineering Investigation Record)
-        └── TR-XXXX-YYYY-ZZZZ    (Test Rationale)
+        ├── TR-XXXX-YYYY-ZZZZ    (Test Rationale)
+        └── RET-XXXX-YYYY-ZZZZ   (After Action Record)
 ```
 
 ### Analysis Chain (backward-looking): "What did they build and why?"

@@ -109,7 +109,7 @@ Describe how hard this decision is to undo.
 
 ## Related
 References to related material:
-- Other ADRs, DRs, AAs
+- Other ADRs, DRs, RETs, AAs
 - Pull requests, issues
 - External references
 

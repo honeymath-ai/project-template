@@ -26,7 +26,8 @@ ADR-0008  (architecture decision)
   └── DR-0008-0001  (design rationale)
         ├── EIR-0008-0001-0001  (investigation record)
         ├── TR-0008-0001-0001   (test rationale)
-        └── TR-0008-0001-0002   (another test rationale)
+        ├── TR-0008-0001-0002   (another test rationale)
+        └── RET-0008-0001-0001  (after action record)
 ```
 
 A TR always traces back to a DR, and through the DR to an ADR.

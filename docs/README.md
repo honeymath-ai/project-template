@@ -12,6 +12,7 @@ Formal project artifacts. All documents here belong to the team, not to any indi
 | `dr/` | Design Rationale — implementation-level "why this way" | Child of ADR |
 | `eir/` | Engineering Investigation Records — exploration and dead ends | Child of DR |
 | `tr/` | Test Rationale — test design "why this scenario" | Child of DR |
+| `ret/` | After Action Records — execution experience "what happened and what we learned" | Child of DR |
 
 ### Analysis Traceability Chain
 
@@ -34,7 +35,8 @@ Formal project artifacts. All documents here belong to the team, not to any indi
 ADR-XXXX                          (Architecture Decision)
   └── DR-XXXX-YYYY                (Design Rationale for that ADR)
         ├── EIR-XXXX-YYYY-ZZZZ   (Investigation Record for that DR)
-        └── TR-XXXX-YYYY-ZZZZ    (Test Rationale for that DR)
+        ├── TR-XXXX-YYYY-ZZZZ    (Test Rationale for that DR)
+        └── RET-XXXX-YYYY-ZZZZ   (After Action Record for that DR)
 ```
 
 ## Analysis Traceability Chain
